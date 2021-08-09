@@ -1,4 +1,4 @@
-    # Gallery
+    # Gallery
     https://lleess.github.io/gallery-react/
     
     В ветке master находятся исходные файлы проекта. 
